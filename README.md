@@ -3,7 +3,7 @@
 - 🌱 I’m currently working as a data scientist and R shiny developer and scrape stuff, build bots, maintain production software.
 - 💞️ I’m looking to collaborate on....interesting things?
 - 📫 How to reach me ... here?
-- ⚡ Fun fact: we will all, one day, die.
+- ⚡ Fun fact: we will all, one day, cease to be?
 
 <!---
 tomh1988-8/tomh1988-8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
