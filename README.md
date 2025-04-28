@@ -3,7 +3,7 @@
 - 🌱 I’m currently working as a data scientist and R shiny developer and scrape stuff, build bots, maintain production software.
 - 💞️ I’m looking to collaborate on....interesting things?
 - 📫 How to reach me ... here?
-- ⚡ Fun fact: we will all, one day, cease to be?
+- ⚡ Fun fact: Botanically, bananas are berries, but strawberries aren’t—strawberries are “aggregate fruits” made up of many tiny “fruitlets.”
 
 <!---
 tomh1988-8/tomh1988-8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
